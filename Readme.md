@@ -12,6 +12,7 @@ I am Mrigank, currently pursuing my bachelor's degree majoring in computer scien
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
