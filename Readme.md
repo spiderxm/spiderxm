@@ -27,7 +27,6 @@ I am Mrigank, currently pursuing my bachelor's degree majoring in computer scien
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=spiderxm&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiderxm&hide=TeX&layout=compact&theme=midnight-purple&&hide_border=false&&count_private=true)
 |<img src="https://github-readme-stats.vercel.app/api?username=spiderxm&&show_icons=true&&hide_border=false&&theme=midnight-purple&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=spiderxm&&theme=midnight-purple&&hide_border=false&&show_icons=true"/>|
 |---|---|
